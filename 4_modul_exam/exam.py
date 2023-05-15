@@ -6,7 +6,7 @@ from aiogram.utils import executor
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "6108967749:AAH7aVD7nSyHk6FZjdOjLWdHbYiVFkS_6rU"
+TOKEN = "TOKEN"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
